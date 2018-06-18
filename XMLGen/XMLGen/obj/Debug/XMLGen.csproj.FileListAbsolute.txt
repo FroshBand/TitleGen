@@ -1,0 +1,7 @@
+C:\_MetaFolder\Music\TitleGen\XMLGen\XMLGen\bin\Debug\XMLGen.exe.config
+C:\_MetaFolder\Music\TitleGen\XMLGen\XMLGen\bin\Debug\XMLGen.exe
+C:\_MetaFolder\Music\TitleGen\XMLGen\XMLGen\bin\Debug\XMLGen.pdb
+C:\_MetaFolder\Music\TitleGen\XMLGen\XMLGen\obj\Debug\XMLGen.csprojResolveAssemblyReference.cache
+C:\_MetaFolder\Music\TitleGen\XMLGen\XMLGen\obj\Debug\XMLGen.csproj.CoreCompileInputs.cache
+C:\_MetaFolder\Music\TitleGen\XMLGen\XMLGen\obj\Debug\XMLGen.exe
+C:\_MetaFolder\Music\TitleGen\XMLGen\XMLGen\obj\Debug\XMLGen.pdb

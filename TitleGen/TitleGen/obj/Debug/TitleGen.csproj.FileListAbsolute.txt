@@ -1,0 +1,7 @@
+C:\_MetaFolder\Music\TitleGen\TitleGen\TitleGen\obj\Debug\TitleGen.csprojResolveAssemblyReference.cache
+C:\_MetaFolder\Music\TitleGen\TitleGen\TitleGen\obj\Debug\TitleGen.csproj.CoreCompileInputs.cache
+C:\_MetaFolder\Music\TitleGen\TitleGen\TitleGen\bin\Debug\TitleGen.exe.config
+C:\_MetaFolder\Music\TitleGen\TitleGen\TitleGen\bin\Debug\TitleGen.exe
+C:\_MetaFolder\Music\TitleGen\TitleGen\TitleGen\bin\Debug\TitleGen.pdb
+C:\_MetaFolder\Music\TitleGen\TitleGen\TitleGen\obj\Debug\TitleGen.exe
+C:\_MetaFolder\Music\TitleGen\TitleGen\TitleGen\obj\Debug\TitleGen.pdb
